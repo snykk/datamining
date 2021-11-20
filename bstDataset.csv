@@ -1,0 +1,21 @@
+jenis kelamin,umur,status pernikahan,anggota keluarga,jumlah tanggungan pendidikan,gaji,bst
+L,40,menikah,4,1,1450000,0
+L,55,menikah,3,1,700000,1
+L,43,menikah,4,2,1600000,0
+L,49,menikah,3,1,800000,0
+L,50,menikah,5,3,1200000,1
+P,67,tidak menikah,1,0,500000,1
+P,45,tidak menikah,3,2,650000,1
+L,30,menikah,3,1,4500000,0
+P,54,tidak menikah,2,1,950000,1
+L,54,menikah,4,2,1250000,1
+L,37,menikah,4,2,1300000,1
+L,25,tidak menikah,1,0,1700000,0
+P,49,tidak menikah,3,1,600000,1
+L,41,menikah,4,2,1000000,0
+P,52,tidak menikah,3,2,900000,1
+L,44,menikah,3,1,1200000,0
+L,30,menikah,2,0,1400000,0
+L,35,menikah,4,1,1750000,0
+L,29,menikah,2,0,2500000,0
+L,39,menikah,5,3,1250000,1
