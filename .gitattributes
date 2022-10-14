@@ -1,0 +1,9 @@
+* text=auto
+
+Framingham-Heart-Study-master/* linguist-vendored
+.ipynb_checkpoints/* linguist-vendored
+
+
+/.github export-ignore
+CHANGELOG.md export-ignore
+.styleci.yml export-ignore
